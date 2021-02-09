@@ -1,5 +1,5 @@
 # Envio de relarórios via e-mail com Python 3
-Este projeto gera relatórios de uma base de dados de diversas lojas e os envia por e-mail usando Python 3.
+Este projeto gera relatórios de uma base de dados com 25 lojas e os envia por e-mail usando Python 3.
 
 ## Projeto desenvolvido a partir do seguinte desafio:
 Você faz parte da equipe de Analytics de uma grande marca de vestuário com mais de 25 lojas espalhadas em Shoppings de todo o Brasil.
